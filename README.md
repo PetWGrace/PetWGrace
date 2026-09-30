@@ -1,16 +1,21 @@
-## Hi there 👋
+****🛡️ About me**
 
-<!--
-**PetWGrace/PetWGrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior at the University of Memphis, Computer Science with a Cybersecurity concentration
+🔍 Interested in security operations, network defense, and vulnerability assessment
+🌱 Currently learning: [e.g. Linux hardening, Wireshark, Python scripting for security]
+💼 Looking for: cybersecurity / IT internships and entry-level roles
+📍 Memphis, TN · open to remote and relocation
+       **📜 Certifications & learning**
+<!-- Only list what you've earned or are actively studying for -->
+[e.g. CompTIA Security+ — in progress]
+[e.g. TryHackMe / Hack The Box profile link]
 
-Here are some ideas to get you started:
+Languages
+-Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🚀 Featured projects
+<!-- We'll fill this in when we add your projects -->
+Project	            What it does                	Tech
+Coming soon
